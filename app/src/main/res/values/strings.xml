@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ventbooth</string>
+    <string name="welcome">Welcome to</string>
+    <string name="Email">Email</string>
+    <string name="password">Password</string>
+    <string name="loginTxt">Login</string>
+    <string name="createAccTxt">Create a new account ?</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="createAcc">Create Account</string>
+    <string name="backLogin">Already have an account ?</string>
+    <string name="googleSignIn">Sign in with Google</string>
+    <string name="name">Username</string>
+    <string name="setupAcc">Setup User Settings</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="logOut">Logout</string>
+    <string name="addDescription">Description</string>
+    <string name="addLink">Add link</string>
+    <string name="postTxt">Post</string>
+    <string name="home_nav">Home</string>
+    <string name="add_nav">Add Post</string>
+    <string name="acc_nav">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="placeholder_name">Username</string>
+    <string name="user_name">Username</string>
+    <string name="description_pic">Description of picture</string>
+    <string name="timeStamp">Time Stamp</string>
+    <string name="link_text">Link</string>
+
+</resources>
